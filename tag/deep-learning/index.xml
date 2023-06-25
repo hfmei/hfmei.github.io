@@ -21,5 +21,13 @@
 </description>
     </item>
     
+    <item>
+      <title>Research on Visual Object Tracking Technology</title>
+      <link>https://example.com/project/tracking/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/tracking/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
