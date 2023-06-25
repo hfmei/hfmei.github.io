@@ -74,6 +74,14 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/demo/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/measurement/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/tracking/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

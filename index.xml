@@ -149,6 +149,30 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Distance measurement of objects in overlapping fields of view using binocular cameras based on MATLAB</title>
+      <link>https://example.com/project/measurement/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/measurement/</guid>
+      <description>&lt;p&gt;This article develops a code implementation for ranging objects in overlapping fields of view using a binocular camera in the MATLAB environment.&lt;/p&gt;
+&lt;p&gt;The overall architecture of this article is as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Based on the provided calibration images, use the Stereo Camera Calibrator toolbox in MATLAB to calibrate the internal and external parameters of the left and right cameras.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using the parameters obtained in the first step, remove the distortion of the left and right ranging images.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform Bouguet polar correction to convert non parallel binocular systems into aligned parallel binocular systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For a parallel binocular system, select the same pixel on the left and right images and use the ranging formula to calculate the distance&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Research on Visual Object Tracking Technology</title>
       <link>https://example.com/project/tracking/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
@@ -261,7 +285,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-413862579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-926358714&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -271,7 +295,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-413862579&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-926358714&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
