@@ -153,7 +153,8 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://example.com/project/tracking/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/tracking/</guid>
-      <description></description>
+      <description>&lt;p&gt;This project focuses on target tracking under the Siamese network framework, and achieves high-precision target tracking algorithms in complex backgrounds by optimizing the network. The current project mainly focuses on the implementation of target tracking algorithms based on the deep twin network SiamFC. Relevant filtering is added to the pre trained CNN features, combining the excellent offline discrimination ability of CNN with the effective online learning ability of CF to complete the implementation of CFNet network.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -260,7 +261,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-216375894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-413862579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -270,7 +271,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-216375894&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-413862579&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

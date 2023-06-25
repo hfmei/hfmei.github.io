@@ -26,7 +26,8 @@
       <link>https://example.com/project/tracking/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/tracking/</guid>
-      <description></description>
+      <description>&lt;p&gt;This project focuses on target tracking under the Siamese network framework, and achieves high-precision target tracking algorithms in complex backgrounds by optimizing the network. The current project mainly focuses on the implementation of target tracking algorithms based on the deep twin network SiamFC. Relevant filtering is added to the pre trained CNN features, combining the excellent offline discrimination ability of CNN with the effective online learning ability of CF to complete the implementation of CFNet network.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
