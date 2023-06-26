@@ -5,7 +5,7 @@
     <link>https://example.com/interest/</link>
       <atom:link href="https://example.com/interest/index.xml" rel="self" type="application/rss+xml" />
     <description>Interests</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Interests</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>2021 - 2022 Graduate National Scholarship</title>
-      <link>https://example.com/interest/scholarship3/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/interest/scholarship3/</guid>
+      <title>Badminton</title>
+      <link>https://example.com/interest/badminton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/interest/badminton/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -37,10 +37,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>2019 - 2020 Undergraduate National Scholarship</title>
-      <link>https://example.com/interest/scholarship2/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/interest/scholarship2/</guid>
+      <title>Swim</title>
+      <link>https://example.com/interest/swim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/interest/swim/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -61,10 +61,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>2018 - 2019 Undergraduate National Scholarship</title>
-      <link>https://example.com/interest/scholarship1/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/interest/scholarship1/</guid>
+      <title>Table tennis</title>
+      <link>https://example.com/interest/tabeltennis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/interest/tabeltennis/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
