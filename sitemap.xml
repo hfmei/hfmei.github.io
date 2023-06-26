@@ -107,11 +107,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/2018-2019-undergraduate-national-scholarship/</loc>
-    <lastmod>2018-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
-    <lastmod>2018-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/2/</loc>
