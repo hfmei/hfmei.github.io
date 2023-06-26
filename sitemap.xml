@@ -22,6 +22,14 @@
     <lastmod>2022-08-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/talk/2021-2022-graduate-national-scholarship/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/deep-learning/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,6 +86,10 @@
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/talk/2019-2020-undergraduate-national-scholarship/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -107,10 +119,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/2018-2019-undergraduate-national-scholarship/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/event/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
