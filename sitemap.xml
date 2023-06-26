@@ -140,17 +140,5 @@
   </url><url>
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/interest/badminton/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/interest/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/interest/swim/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/interest/tabeltennis/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
