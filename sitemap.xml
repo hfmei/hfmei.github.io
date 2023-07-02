@@ -82,11 +82,11 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/demo/</loc>
+    <loc>https://example.com/project/measurement/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/measurement/</loc>
+    <loc>https://example.com/tag/other/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
