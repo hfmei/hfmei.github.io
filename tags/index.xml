@@ -5,7 +5,7 @@
     <link>https://example.com/tags/</link>
       <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf2c2e11aa87fd12d9052bfa85f3feddc_130472_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>

@@ -5,12 +5,21 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf2c2e11aa87fd12d9052bfa85f3feddc_130472_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://example.com/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Visual-based 3D Space Semantic Perception System</title>
+      <link>https://example.com/project/yoloslam/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/yoloslam/</guid>
+      <description>&lt;p&gt;We choose the domestic Feiteng FT-2000 development board, which is equipped with the Galaxy Kylin system, to solve the problem of processing platform. We chose Yolo Fastest V2 as the object detection algorithm and used SVO for depth map construction. By fusing key points and detection box information, a three-dimensional spatial point cloud map with semantic information is obtained.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Research on the Interpretability of Object Detection Networks</title>

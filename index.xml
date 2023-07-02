@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Visual-based 3D Space Semantic Perception System</title>
+      <link>https://example.com/project/yoloslam/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/yoloslam/</guid>
+      <description>&lt;p&gt;We choose the domestic Feiteng FT-2000 development board, which is equipped with the Galaxy Kylin system, to solve the problem of processing platform. We chose Yolo Fastest V2 as the object detection algorithm and used SVO for depth map construction. By fusing key points and detection box information, a three-dimensional spatial point cloud map with semantic information is obtained.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DE-CrossDet: Divisible and Extensible Crossline Representation for Object Detection</title>
       <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
@@ -337,7 +346,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-853214769&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-147265938&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +356,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-853214769&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-147265938&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
